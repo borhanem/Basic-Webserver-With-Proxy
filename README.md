@@ -7,8 +7,8 @@ Basic login and signup webpage deployed with gunicorn and nginx.
 
 ## TCP Bridge
 
-Written in Python
+Written in Python.
 
 ## HTTP Proxy
 
-Written in Python using Scapy
+Written in Python using Scapy.
